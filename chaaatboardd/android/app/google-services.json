@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994377681574",
+    "project_id": "chaatboard",
+    "storage_bucket": "chaatboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994377681574:android:a7eb0cd489f27c5fc28267",
+        "android_client_info": {
+          "package_name": "com.example.chaaatboardd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994377681574-56u7pgn8fju9rjhk2hs1c9uub96uo9ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfAacqfz3rYIOopgWqe0sBIMopEKU1WKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994377681574-56u7pgn8fju9rjhk2hs1c9uub96uo9ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
